@@ -1,0 +1,16 @@
+npm install hays-job-registration --registry https://npmregistry.hays.com
+npm install longlist-candidate --registry https://npmregistry.hays.com
+npm install log-a-phonecall --registry https://npmregistry.hays.com
+npm install meeting-attended --registry https://npmregistry.hays.com
+npm install arrange-internal-interview --registry https://npmregistry.hays.com
+npm install market-candidate-cv --registry https://npmregistry.hays.com
+npm install send-mail --registry https://npmregistry.hays.com
+npm install send-spec-cv --registry https://npmregistry.hays.com
+npm install send-cv --registry https://npmregistry.hays.com
+npm install arrange-meeting --registry https://npmregistry.hays.com
+npm install interview-confirm --registry https://npmregistry.hays.com
+npm install send-sms --registry https://npmregistry.hays.com
+
+npm i angular-froala-wysiwyg
+
+npm install --save-dev @angular-devkit/build-angular@0.1102.19

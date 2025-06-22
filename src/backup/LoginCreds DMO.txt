@@ -1,0 +1,30 @@
+Client:
+sauravyadav@test.com       	Hays@123
+
+Talent:
+sauravyadav2@test.com    	Hays@123
+talent@s.com     			Hays@123
+
+Operation:
+saurav.y@hays.de           	Hays@123
+gaurav.y@hays.de			Hays@123
+
+
+https://frontend.dev.tribeworks.de
+https://frontend.stage.tribeworks.de/#/client/dashboard
+
+user: admin
+password: ZGV2a2V5Y2xvYWt1c2VyDQo
+
+//// config.json
+
+{
+  "backend":"https://backend.dev.tribeworks.de",
+  "keycloak": "https://auth.dev.hays-dmo.hvmnd.io/realms/",
+  "websocket": "ws://localhost:8080"
+}
+
+SET NO_PROXY=localhost,127.0.0.1
+set HTTPS_PROXY=proxy.emea.hays.loc:8080
+
+flutter pub get  :: for installing all the dependencies.

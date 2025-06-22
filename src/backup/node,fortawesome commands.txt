@@ -1,0 +1,10 @@
+set NODE_OPTIONS=--max_old_space_size=6096
+
+"@fortawesome/fontawesome-pro": "^5.15.2",
+
+when installing Microproduct ::
+
+npm set //npmregistry.hays.com/:_authToken=7dvmJ67KX4eNpNEmde7in5RXBALEgVA3YOc1cmNXQsOM+V44PCS5o23K1HA8k0Z+
+
+<p><span [tooltip]="showData(item) | defaultData" container="body"
+                 placement="bottom" class="d-block">{{showData(item) | defaultData}}</span></p>

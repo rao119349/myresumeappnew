@@ -1,0 +1,11 @@
+<div [ngClass]="isJournalOrDocLib ? 'col-12 p0':'col-10 p0'">
+        
+<div [ngClass]="isJournalOrDocLib ? 'containerBox entitydetailspage p0 m0':'containerBox entitydetailspage p0 mr5'">
+
+<span [ngClass]="{'d-none':cvDoesNotExist[i]==true}" *ngIf="!cand.get('haysCV').disabled" (click)="previewCV(i)" class="view-cv"><a>{{'mp.sendCV.viewCV' | translate}}</a></span>
+
+<div *ngIf="listingPage">
+    <button id="OT2_Reformat_Click" class="search_btn" (click) = "openModal()">
+      <i [ngClass]="'fa fa-cog'" ></i>
+    </button>
+  </div>

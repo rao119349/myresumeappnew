@@ -1,0 +1,187 @@
+[
+  {
+    "firstName": "Saurav",
+    "lastName": "Yadav",
+    "uuid": "8e3b2d9f-1b92-44a8-90b1-0a732f2e3b12",
+    "email": "sauravyadav1193@gmail.com",
+    "phone": "+91-9899692329",
+    "role": "Front-End Developer",
+    "social": {
+      "facebook": "www.google.com",
+      "instagram": "www.google.com",
+      "twitter": "www.google.com",
+      "linkedin": "www.google.com",
+      "youtube": "www.google.com",
+      "behance": "www.google.com"
+    },
+    "age": 24,
+    "countrycode": "IN",
+    "country": "India",
+    "availability": true,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "zipcode": "121004",
+    "languages": [
+      {
+        "name": "Hindi",
+        "proficiency": 100
+      },
+      {
+        "name": "English",
+        "proficiency": 100
+      },
+      {
+        "name": "Spanish",
+        "proficiency": 100
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "proficiency": 100
+      },
+      {
+        "name": "CSS",
+        "proficiency": 100
+      },
+      {
+        "name": "JavaScript",
+        "proficiency": 100
+      },
+      {
+        "name": "Figma",
+        "proficiency": 100
+      },
+      {
+        "name": "UI Design",
+        "proficiency": 100
+      },
+      {
+        "name": "UX Design",
+        "proficiency": 100
+      }
+    ],
+    "extraSkills": [
+      {
+        "name": "React",
+        "proficiency": 100
+      },
+      {
+        "name": "Angular",
+        "proficiency": 100
+      },
+      {
+        "name": "Vue",
+        "proficiency": 100
+      },
+      {
+        "name": "Node",
+        "proficiency": 100
+      },
+      {
+        "name": "MongoDB",
+        "proficiency": 100
+      },
+      {
+        "name": "Express",
+        "proficiency": 100
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Tech",
+        "major": "Computer Science",
+        "university": "MDU",
+        "graduationYear": 2016,
+        "percentage": 70
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "role": "Front-End Developer",
+        "startDate": "2016-01-01",
+        "endDate": "2018-01-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et nunc fermentum ultricies. Nullam nec purus et nunc fermentum ultricies."
+      },
+      {
+        "company": "Facebook",
+        "role": "Front-End Developer",
+        "startDate": "2018-01-01",
+        "endDate": "2020-01-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et nunc fermentum ultricies. Nullam nec purus et nunc fermentum ultricies."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et nunc fermentum ultricies. Nullam nec purus et nunc fermentum ultricies.",
+        "startDate": "2016-01-01",
+        "endDate": "2018-01-01",
+        "link": "www.google.com"
+      },
+      {
+        "name": "Project 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et nunc fermentum ultricies. Nullam nec purus et nunc fermentum ultricies.",
+        "startDate": "2018-01-01",
+        "endDate": "2020-01-01",
+        "link": "www.google.com"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Certification 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et nunc fermentum ultricies. Nullam nec purus et nunc fermentum ultricies.",
+        "date": "2016-01-01",
+        "link": "www.google.com"
+      },
+      {
+        "name": "Certification 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et nunc fermentum ultricies. Nullam nec purus et nunc fermentum ultricies.",
+        "date": "2018-01-01",
+        "link": "www.google.com"
+      }
+    ],
+    "hobbies": [
+      {
+        "name": "Cricket"
+      },
+      {
+        "name": "Football"
+      },
+      {
+        "name": "Basketball"
+      }
+    ],
+    "profileImage": "https://www.google.com",
+    "resume": "https://www.google.com",
+    "createdAt": "2021-01-01",
+    "updatedAt": "2021-01-01",
+    "deletedAt": null,
+    "status": "active",
+    "isDeleted": false,
+    "isVerified": true,
+    "isBlocked": false,
+    "isSuspended": false,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isSocialVerified": true,
+    "isTwoFactorEnabled": true,
+    "isProfileCompleted": true,
+    "isProfilePublic": true,
+    "isProfileSearchable": true,
+    "isProfileVisible": true,
+    "isProfileEditable": true,
+    "isProfileDeletable": true,
+    "isProfileBlocked": false,
+    "isProfileSuspended": false,
+    "isProfileVerified": true,
+    "isProfileApproved": true,
+    "isProfileRejected": false,
+    "isProfilePending": false,
+    "isProfileExpired": false,
+    "isProfileActive": true,
+    "isProfileInactive": false,
+    "isProfileDeleted": false
+  }
+]

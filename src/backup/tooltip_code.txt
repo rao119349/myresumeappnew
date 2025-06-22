@@ -1,0 +1,16 @@
+<span [tooltip]="'WorkflowRight.' + icon?.menu + '_text' | translate" container="body" placement="top">
+
+<p><span [tooltip]="item?.searchName" container="body" placement="top">{{item?.searchName}}</span></p>
+
+
+<button id="OT2_Workflow_Icon_Click" data-name="{{icon?.menu.replaceAll(' ', '_')}}">
+          <span [tooltip]="'WorkflowRight.' + icon?.menu + '_text' | translate" container="body" placement="top">
+            <i [routerLink]="icon.url" [ngClass]="icon.iconPath ? icon.iconPath: 'fal fa-check-circle'"></i>
+          </span>
+        </button>
+		
+		<button id="OT2_Workflow_Icon_Click" data-name="{{icon?.menu.replaceAll(' ', '_')}}">
+        <span [tooltip]="'WorkflowRight.' + icon?.menu + '_text' | translate" container="body" placement="top">
+          <i (click)="workflowClick(icon.url)" [ngClass]="icon.iconPath ? 'fal ' + icon.iconPath: 'fal fa-check-circle'"></i>
+      </span>
+      </button>

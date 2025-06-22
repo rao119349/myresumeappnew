@@ -1,0 +1,10 @@
+change version in MP package.json
+\HaysMPATSCoreAPP>ng build send-mail
+\HaysMPATSCoreAPP>cd D:\Hays_Projects\HaysMPATSCoreAPP\dist\send-mail
+\HaysMPATSCoreAPP\dist\send-mail>npm pack
+
+\OneTouchCoreAPP>npm install D:\Hays_Projects\HaysMPATSCoreAPP\dist\send-mail\send-mail-0.0.44.tgz
+
+*copy assests folder from mP to nodemoduluse in OTCore
+
+ng serve

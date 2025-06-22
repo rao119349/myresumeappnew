@@ -1,0 +1,31 @@
+NPMRC File 
+
+strict-ssl=false
+registry=https://registry.npmjs.org/
+HTTP_PROXY=http://emea%5Cyadavs4:Classic%40350@proxy.emea.hays.loc:8080
+HTTPS_PROXY=http://emea%5Cyadavs4:Classic%40350@proxy.emea.hays.loc:8080
+proxy=http://emea%5Cyadavs4:Classic%40350@proxy.emea.hays.loc:8080/
+
+
+
+To Unset & Set Proxy
+
+npm config set proxy http://yadavs4:Admin2637a@proxy.emea.hays.loc:8080
+npm config set https-proxy http://yadavs4:Admin2637a@proxy.emea.hays.loc:8080
+
+
+To Stop notifications on version mismatch
+ng config -g cli.warnings.versionMismatch false
+
+npm set registry -g https://registry.npmjs.org/
+
+
+npm config get proxy
+npm config rm proxy
+npm config rm https-proxy
+
+shutdown /r
+
+npm cache clean --force
+npm install -g @angular/core
+npm install -g @angular/cli

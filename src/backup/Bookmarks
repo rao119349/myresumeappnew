@@ -1,0 +1,429 @@
+{
+   "checksum": "fd40f5cb509571e5e3f533d003e45cb5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13267024164548704",
+            "date_last_used": "0",
+            "guid": "1bcd921c-a2be-43e4-a381-1207a409647a",
+            "id": "5",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "children": [ {
+               "date_added": "13302366593615718",
+               "date_last_used": "0",
+               "guid": "156d7501-e9c5-432e-8deb-817052e6bd13",
+               "id": "44",
+               "name": "OT-Local",
+               "type": "url",
+               "url": "http://localhost:4200/hays/recruiter/ES/en/all/onetouch/ns/login"
+            }, {
+               "date_added": "13309332826664685",
+               "date_last_used": "0",
+               "guid": "556dd64b-1ab2-4fbb-b52f-d097495e2764",
+               "id": "56",
+               "name": "OT-SG",
+               "type": "url",
+               "url": "https://otasiatest.hays.com.au/hays/recruiter/SG/en/all/onetouch/s/home/details/browse/liveUnderOfferJobs"
+            },
+{
+            "date_added": "13343229984925294",
+            "date_last_used": "0",
+            "guid": "037ac488-d2eb-45bd-af8c-e3170149a0e8",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TRIB board - Agile board - Jira",
+            "type": "url",
+            "url": "https://hays-ag.atlassian.net/jira/software/c/projects/TRIBE/boards/6"
+         },			{
+               "date_added": "13315304761798730",
+               "date_last_used": "0",
+               "guid": "3ff1ede5-52cf-4ae0-9920-b9fc54c4ce10",
+               "id": "81",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "OneTouch 2.0 - Prod",
+               "type": "url",
+               "url": "https://otasia.hays.com.au/hays/recruiter/SG/en/all/onetouch/s/candidate/467a948a-2c8a-5d47-2c36-e1e28ced1049/details/browse/contactInfo"
+            }, {
+               "date_added": "13328092230915000",
+               "date_last_used": "0",
+               "guid": "f923f03d-c02f-4d6c-a503-a53ea1ec1dfc",
+               "id": "85",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Adapt Programme - PMO - Global Systems Team - Icons - bespoke designs - All Documents",
+               "type": "url",
+               "url": "https://haysonline.sharepoint.com/sites/PMO/haysit/pmo/adapt/GST%20Trello/Forms/AllItems.aspx?id=%2Fsites%2FPMO%2Fhaysit%2Fpmo%2Fadapt%2FGST%20Trello%2FOT2%2E0%2FProduct%20team%20documents%2FIcons%20%2D%20bespoke%20designs&p=true&ga=1"
+            } ],
+            "date_added": "13309332790387978",
+            "date_last_used": "0",
+            "date_modified": "13329217284083533",
+            "guid": "4ca0c482-cc1b-485c-a377-b7edbd5847a2",
+            "id": "54",
+            "name": "OT 2.0",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13310125534809520",
+                  "date_last_used": "0",
+                  "guid": "0d56166e-584d-46fd-b54d-861797b081d3",
+                  "id": "61",
+                  "name": "VMS2Admin-local",
+                  "type": "url",
+                  "url": "http://localhost:4300/glb/en/admin/login"
+               }, {
+                  "date_added": "13312541079753172",
+                  "date_last_used": "0",
+                  "guid": "bfed35da-a608-4c30-89db-fc3fdc005e5a",
+                  "id": "70",
+                  "name": "VMS 2 Core Preprod",
+                  "type": "url",
+                  "url": "https://vmslink2test.hays.com.au/vendor-management/glb/en/vms/error?e=failure"
+               }, {
+                  "date_added": "13312541103733582",
+                  "date_last_used": "0",
+                  "guid": "00b801b0-4976-4cf9-9d0f-ac0a18a11c6d",
+                  "id": "71",
+                  "name": "VMS 2 Admin Preprod",
+                  "type": "url",
+                  "url": "https://vmslink2techtest.hays.com.au/au/en/admin/s/home"
+               } ],
+               "date_added": "13310125509579139",
+               "date_last_used": "0",
+               "date_modified": "13312541167175005",
+               "guid": "be29a4bf-373c-4a98-a1a9-51416cd8438f",
+               "id": "59",
+               "name": "VMS 2",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13312541167175005",
+                  "date_last_used": "0",
+                  "guid": "e34e0201-c8dd-4a65-a99d-5376a5c24e97",
+                  "id": "72",
+                  "name": "VMS4 Micro Local",
+                  "type": "url",
+                  "url": "http://localhost:4200/vendor-management/glb/en/vms/login"
+               }, {
+                  "date_added": "13312541284033587",
+                  "date_last_used": "0",
+                  "guid": "41990baf-3aaf-4c4a-9648-5092c5c92504",
+                  "id": "74",
+                  "name": "VMS 4 Admin Preprod",
+                  "type": "url",
+                  "url": "https://vmslink2techtest.hays.com.au/vms/au/en/admin/businessadmin/s/pendingjobs"
+               }, {
+                  "date_added": "13312541314768318",
+                  "date_last_used": "0",
+                  "guid": "bd0fe2bc-6dfc-421f-9416-0417640e08d6",
+                  "id": "75",
+                  "name": "VMS4 Core Preprod",
+                  "type": "url",
+                  "url": "https://vmslink2test.hays.com.au/vms/vendor-management/au/en/vms/s/job/browse/job-dashboard"
+               }, {
+                  "date_added": "13310125521071652",
+                  "date_last_used": "0",
+                  "guid": "dd5ff7db-c058-41fd-87d2-8081ccaad396",
+                  "id": "60",
+                  "name": "VMS2Core-local",
+                  "type": "url",
+                  "url": "http://localhost:4200/vendor-management/glb/en/vms/login"
+               } ],
+               "date_added": "13312541020370114",
+               "date_last_used": "0",
+               "date_modified": "13314192613097652",
+               "guid": "8f55e757-f36f-433c-b6f2-222dbf4f3d32",
+               "id": "69",
+               "name": "VMS 4",
+               "type": "folder"
+            } ],
+            "date_added": "13312540923333003",
+            "date_last_used": "0",
+            "date_modified": "13312541079753172",
+            "guid": "f51bc2c0-c43a-47e2-9eaa-55f23d3a7cd2",
+            "id": "68",
+            "name": "VMS",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13336748663894114",
+               "date_last_used": "0",
+               "guid": "2d43e7f4-e7cf-423a-93a4-29b3e03c3719",
+               "id": "91",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SP local",
+               "type": "url",
+               "url": "http://localhost:4200/#/IN/ns/platform/singlepoint/dashboard/employee/attendance"
+            }, {
+               "date_added": "13337852501855920",
+               "date_last_used": "0",
+               "guid": "d45f1f47-e40f-4cf0-a784-5bfc08eacec8",
+               "id": "94",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SP PreProd",
+               "type": "url",
+               "url": "https://singlepointtest.hays.com/#/IN/ns/platform/singlepoint/dashboard/home"
+            } ],
+            "date_added": "13337851657780160",
+            "date_last_used": "0",
+            "date_modified": "13338028884042291",
+            "guid": "ff798447-eac2-454e-937e-7d5fd175d2fa",
+            "id": "93",
+            "name": "SP",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13309262730939668",
+               "date_last_used": "0",
+               "guid": "868fe728-358c-429b-8461-ace220b26626",
+               "id": "50",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13335279092538609",
+               "date_last_used": "0",
+               "guid": "e2a8cd67-7e37-47c1-97ee-65ae795aeb50",
+               "id": "89",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "yadavs4/SinglePointCoreWebApp: Single Point Core WebApp",
+               "type": "url",
+               "url": "https://github.com/yadavs4/SinglePointCoreWebApp"
+            }, {
+               "date_added": "13312466876499563",
+               "date_last_used": "0",
+               "guid": "0b06343b-022d-47df-bee0-9bf7cd04aacf",
+               "id": "63",
+               "name": "yadavs4/VMS4CoreMicroApp: VMS4 Core MicroApp",
+               "type": "url",
+               "url": "https://github.com/yadavs4/VMS4CoreMicroApp"
+            }, {
+               "date_added": "13312467047416184",
+               "date_last_used": "0",
+               "guid": "9fb71fe3-ff5a-4525-bf1a-4f21f2973ef6",
+               "id": "65",
+               "name": "yadavs4/VMS4AdminAPP: VMS4AdminAPP",
+               "type": "url",
+               "url": "https://github.com/yadavs4/VMS4AdminAPP"
+            }, {
+               "date_added": "13312467311172547",
+               "date_last_used": "0",
+               "guid": "2fb2fb52-5e06-4f17-9e8c-23b9201918ce",
+               "id": "66",
+               "name": "yadavs4/VMS4CoreAPP: VMS4CoreAPP",
+               "type": "url",
+               "url": "https://github.com/yadavs4/VMS4CoreAPP/tree/master"
+            }, {
+               "date_added": "13314192613097652",
+               "date_last_used": "0",
+               "guid": "931274c2-e7fb-436b-9c56-aaa836c448e8",
+               "id": "78",
+               "name": "yadavs4/VMS2CoreApp",
+               "type": "url",
+               "url": "https://github.com/yadavs4/VMS2CoreApp"
+            }, {
+               "date_added": "13314192635159160",
+               "date_last_used": "0",
+               "guid": "0a85f66a-fc7a-48d8-8e97-27106d06bd93",
+               "id": "79",
+               "name": "yadavs4/VMS2AdminAPP",
+               "type": "url",
+               "url": "https://github.com/yadavs4/VMS2AdminAPP"
+            }, {
+               "date_added": "13326205575160213",
+               "date_last_used": "0",
+               "guid": "ab80f0f9-97c8-4635-b573-45db75d7207f",
+               "id": "83",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "yadavs4/HaysStoryBookHtml: Hays Story Book",
+               "type": "url",
+               "url": "https://github.com/yadavs4/HaysStoryBookHtml"
+            }, {
+               "date_added": "13310123431860628",
+               "date_last_used": "0",
+               "guid": "49a52b44-00d1-4013-add8-370596e2eb2c",
+               "id": "58",
+               "name": "yadavs4/OneTouchCoreAPP at development",
+               "type": "url",
+               "url": "https://github.com/yadavs4/OneTouchCoreAPP/tree/development"
+            }, {
+               "date_added": "13338028884042291",
+               "date_last_used": "0",
+               "guid": "4a9ada63-13a4-487f-9721-2fbca28a195c",
+               "id": "95",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "yadavs4/OneTouchCandCoreAPP: OneTouch CandCoreAPP",
+               "type": "url",
+               "url": "https://github.com/yadavs4/OneTouchCandCoreAPP"
+            }, {
+               "date_added": "13338028949415518",
+               "date_last_used": "0",
+               "guid": "980d3954-ee3a-47e5-b76e-bead539810bc",
+               "id": "96",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "yadavs4/OneTouchOrgContactCoreAPP: OneTouch OrgContactCoreAPP",
+               "type": "url",
+               "url": "https://github.com/yadavs4/OneTouchOrgContactCoreAPP"
+            }, {
+               "date_added": "13338028985952870",
+               "date_last_used": "0",
+               "guid": "48180696-0b4a-48c1-a70b-ae8644ccbe33",
+               "id": "97",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "yadavs4/OneTouchJobCoreAPP: OneTouch JobCoreAPP",
+               "type": "url",
+               "url": "https://github.com/yadavs4/OneTouchJobCoreAPP"
+            }, {
+               "date_added": "13296938766079808",
+               "date_last_used": "0",
+               "guid": "ca24cf1c-49dd-4e69-988e-3e4e78848d90",
+               "id": "35",
+               "name": "yadavs4/HaysMPATSCoreAPP at development",
+               "type": "url",
+               "url": "https://github.com/yadavs4/HaysMPATSCoreAPP/tree/development"
+            } ],
+            "date_added": "13309266219038883",
+            "date_last_used": "0",
+            "date_modified": "13338030719325880",
+            "guid": "884e9a8d-9548-488d-913c-9544bd7f91ef",
+            "id": "51",
+            "name": "GitHub",
+            "type": "folder"
+         }, {
+            "date_added": "13302962568219358",
+            "date_last_used": "0",
+            "guid": "40a7d828-f6d7-4bb8-a0b9-2cec60300de6",
+            "id": "46",
+            "name": "IT ticket",
+            "type": "url",
+            "url": "http://10.209.14.200:8080/HomePage.do?view_type=my_view"
+         }, {
+            "children": [ {
+               "date_added": "13267025271777874",
+               "date_last_used": "0",
+               "guid": "d48f8e51-153f-4b56-b82c-50db0065250a",
+               "id": "11",
+               "name": "greytHR IDP",
+               "type": "url",
+               "url": "https://hbsin.greythr.com/uas/portal/auth/login?login_challenge=13bff2adad7c4955bde7db5774fa5ea5"
+            }, {
+               "date_added": "13267036629155572",
+               "date_last_used": "0",
+               "guid": "ea925e71-e498-408a-939c-328b513bf792",
+               "id": "14",
+               "name": "SinglePoint",
+               "type": "url",
+               "url": "https://singlepoint.hays.com/hbs/#/IN/ns/platform/singlepoint/login"
+            } ],
+            "date_added": "13267025326820309",
+            "date_last_used": "0",
+            "date_modified": "13326205575160213",
+            "guid": "d4c5bb84-464f-471b-817e-421718025e84",
+            "id": "12",
+            "name": "Hays",
+            "type": "folder"
+         }, {
+            "date_added": "13272972359459581",
+            "date_last_used": "0",
+            "guid": "12ea37bf-ef5d-4b12-b77b-87ebd22b2d30",
+            "id": "24",
+            "name": "Work items - Boards",
+            "type": "url",
+            "url": "https://dev.azure.com/HaysSpecialistRecruitment/OT2.0/_workitems/recentlyupdated/"
+         }, {
+            "date_added": "13273578739254790",
+            "date_last_used": "0",
+            "guid": "2628f159-a053-4856-81ef-2b1f06f09b22",
+            "id": "25",
+            "name": "List of Issues - Relay",
+            "type": "url",
+            "url": "http://hrmvmpd4922.emea.hays.loc/list.php"
+         }, {
+            "date_added": "13267024650822824",
+            "date_last_used": "0",
+            "guid": "b85a9723-1d60-401d-9a37-0c3a23aef160",
+            "id": "9",
+            "name": "Icons | Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/v5.15/icons?d=gallery&p=2"
+         }, {
+            "date_added": "13329217284083533",
+            "date_last_used": "0",
+            "guid": "d6adb105-fc7f-404f-8c2d-40ebfab846af",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Webpack App",
+            "type": "url",
+            "url": "http://localhost:6006/?path=/docs/components-statistics-card--statistics-card"
+         }, {
+            "date_added": "13282654166975818",
+            "date_last_used": "0",
+            "guid": "16171f6c-0b9d-4632-897f-b815dfa70702",
+            "id": "30",
+            "name": "Welcome to Adapt Version 11",
+            "type": "url",
+            "url": "http://hrlvmpp3787.emea.hays.loc/WebApp/userauthentication/login/login.jsp"
+         }, {
+            "date_added": "13308053973577701",
+            "date_last_used": "0",
+            "guid": "4fccef1a-9538-47aa-b91e-ebadd35161ae",
+            "id": "48",
+            "name": "Hays Brand Manager",
+            "type": "url",
+            "url": "https://brandportal.haysplc.com/login"
+         } ],
+         "date_added": "13267023918805035",
+         "date_last_used": "0",
+         "date_modified": "13337851665001464",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13267023918805050",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13267023918805052",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
